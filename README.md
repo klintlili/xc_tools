@@ -1,18 +1,12 @@
 xc_tools
 ========
 
-自己开发的一些有助于日常开发的小函数小工具等
+- php：提高开发效率，方便debug的函数和类。
 
 php
 --------
 
-说明：php工具
-
-文件：
-
 ### func.php
-
-提高开发效率，方便debug的函数
 
 - show(string var,boolean is_dump)
 
