@@ -28,3 +28,11 @@ php
     $res = $regexTool->isEmail('541817418@qq.com');
     show($res,true);
 ```
+
+### smarty
+
+山寨smarty，模板替换
+
+- 获取模板源文件
+- 编译模板（正则替换）：前端后端代码集成
+- 输出给用户
